@@ -1,4 +1,4 @@
-<Version: 2.01>
-/data/map003.zip https://wordpress.org/latest.zip
+<Version:  1.01
+/data/map003.json  https://raw.githubusercontent.com/adasio98/End/master/Map003.json
 
 <End of Version>
