@@ -1,4 +1,4 @@
-<Version:  0.02>
+<Version:  1.01>
 /data/map003.json  http://class6b.dx.am/up/Map003.json
 
 <End of Version>
